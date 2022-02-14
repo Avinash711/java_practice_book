@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="6" time="0.078" timestamp="2022-02-15T00:40:13.506791" hostname="DESKTOP-LM3Q5VB">
+        <testcase classname="test_report_1.TestDeploy" name="test_stat[SAP_01_sharedrive]" time="0.008" />
+        <testcase classname="test_report_1.TestDeploy" name="test_id[SAP_01_sharedrive]" time="0.002" />
+        <testcase classname="test_report_1.TestDeploy" name="test_stat[SAP_02_gcs]" time="0.006" />
+        <testcase classname="test_report_1.TestDeploy" name="test_id[SAP_02_gcs]" time="0.003" />
+        <testcase classname="test_report_1.TestDeploy" name="test_stat[SAP_03_gcs]" time="0.005" />
+        <testcase classname="test_report_1.TestDeploy" name="test_id[SAP_03_gcs]" time="0.001" />
+    </testsuite>
+</testsuites>
